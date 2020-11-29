@@ -8,7 +8,6 @@
 * numpy
 * statistics
 * seaborn
-* gc
 * pickle
 * sklearn
 
