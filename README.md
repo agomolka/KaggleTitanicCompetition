@@ -17,6 +17,6 @@
 * Support Vector Machine
 
 ### ROC Curve of my models: <br />
-![alt text](https://raw.githubusercontent.com/axrozwadowska/kaggle_compete_titanic/master/ROC.png?token=AJDZ2DTIZC2G6QF2J6XB6QK7YQSE6)
+![alt text](https://raw.githubusercontent.com/axrozwadowska/kaggle_compete_titanic/master/ROC.png?token=AJDZ2DS5XW2CA6KPKESWWRS7YS3MW)
 
 
