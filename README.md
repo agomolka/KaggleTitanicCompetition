@@ -5,6 +5,7 @@
 
 
 ### Python Packages:
+
 * numpy
 * pandas
 * pickle
@@ -14,8 +15,9 @@
 
 
 ### Classification Models Used:
-* Random Forests
+
 * k-Nearest Neighbours
+* Random Forests
 * Support Vector Machine
 
 
