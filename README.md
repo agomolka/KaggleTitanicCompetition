@@ -22,6 +22,6 @@
 
 
 ### ROC Curve of my models: <br />
-![alt text](https://raw.githubusercontent.com/axrozwadowska/kaggle_compete_titanic/master/ROC.png?token=AJDZ2DS5XW2CA6KPKESWWRS7YS3MW)
+![alt text]()
 
 
