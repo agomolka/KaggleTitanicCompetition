@@ -3,20 +3,23 @@
 
 #### Full Analysis : [Jupyter Notebook](https://github.com/axrozwadowska/kaggle_compete_titanic/blob/master/better_titanic.ipynb)
 
+
 ### Python Packages:
-* pandas
+
 * numpy
-* statistics
-* seaborn
+* pandas
 * pickle
+* seaborn
 * sklearn
+* statistics
+
 
 ### Classification Models Used:
-* Random Forests
+
 * k-Nearest Neighbours
+* Random Forests
 * Support Vector Machine
 
-### ROC Curve of my models: <br />
-![alt text](https://raw.githubusercontent.com/axrozwadowska/kaggle_compete_titanic/master/ROC.png?token=AJDZ2DTIZC2G6QF2J6XB6QK7YQSE6)
 
-
+### ROC Curve of my models: 
+![](https://github.com/axrozwadowska/Kaggle_Titanic_Competition/blob/master/ROC.png?raw=true)
