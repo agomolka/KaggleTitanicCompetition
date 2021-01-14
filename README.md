@@ -3,8 +3,8 @@
 
 #### Full Analysis : [Jupyter Notebook](https://github.com/axrozwadowska/Kaggle_Titanic_Competition/blob/master/titanic_project.ipynb)
 
-### This is the legendary Titanic ML competition – the first challenge for me to dive into Machine Learning.
-### I used machine learning to create a model that predicts which passengers survived the Titanic disaster.
+##### This is the legendary Titanic ML competition – the first challenge for me to dive into Machine Learning.
+##### I used machine learning to create a model that predicts which passengers survived the Titanic disaster.
 
 
 ### Python Packages:
