@@ -1,4 +1,4 @@
-# kaggle_compete_titanic
+# 🛳 KaggleTitanicCompetition
 #### Exploratory data analysis for the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) dataset from [Kaggle.com](https://www.kaggle.com)
 
 #### Full Analysis : [Jupyter Notebook](https://github.com/axrozwadowska/Kaggle_Titanic_Competition/blob/master/titanic_project.ipynb)
